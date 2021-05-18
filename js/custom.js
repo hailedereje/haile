@@ -4,6 +4,7 @@
     var $winW = function() {
         return $(window).width();
     };
+    
     var $winH = function() {
         return $(window).height();
     };
